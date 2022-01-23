@@ -1,20 +1,11 @@
-import useSpacetraders from "../../hooks/useSpacetraders";
+
 
 const Header = () => {
 
-    const { 
-        user,
-        info,
-        login,
-        getUser,
-        getStatus,
-        getLeaderboard,
-        getShips
-    } = useSpacetraders();
 
     return (
         <div>
-            <div>
+            {/* <div>
                 {user.name}
             </div>
             <div style={{display: 'flex', flexDirection: 'column', alignItems: 'flex-start'}}>
@@ -26,7 +17,7 @@ const Header = () => {
             </div>
             <div>
                 {JSON.stringify(info)}
-            </div>
+            </div> */}
         </div>
     );
 }
