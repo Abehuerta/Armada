@@ -20,7 +20,11 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
+  "baseUrl": "src/",
   "include": [
-    "src"
+    "next-env.d.ts", 
+    "**/*.ts", 
+    "**/*.tsx",
+    "src/"
   ]
 }

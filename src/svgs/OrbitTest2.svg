@@ -1,0 +1,28 @@
+<svg id="orbittest" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style>
+        #orbittest-ezjsqclydxu3_tr {animation: orbittest-ezjsqclydxu3_tr__tr 30000ms linear infinite normal forwards}@keyframes orbittest-ezjsqclydxu3_tr__tr { 0% {transform: translate(90.930985px,405.513562px) rotate(0deg)} 60% {transform: translate(90.930985px,405.513562px) rotate(-720deg)} 100% {transform: translate(90.930985px,405.513562px) rotate(-720deg)}} #orbittest-ezjsqclydxu10_tr {animation: orbittest-ezjsqclydxu10_tr__tr 30000ms linear infinite normal forwards}@keyframes orbittest-ezjsqclydxu10_tr__tr { 0% {transform: translate(90.930985px,405.513562px) rotate(0deg)} 60% {transform: translate(90.930985px,405.513562px) rotate(360deg)} 100% {transform: translate(90.930985px,405.513562px) rotate(360deg)}}
+    </style>
+    <g id="orbittest-orbit-test" transform="translate(229.069015-164.12999)">
+        <ellipse id="orbittest-ellipse1" rx="48.9339" ry="48.9339" transform="matrix(1.62162 0 0 1.62162 90.9312 404.13)" fill="#d2dbed" stroke-width="0" />
+        <g id="orbittest-ezjsqclydxu3_tr" transform="translate(90.930985,405.513562) rotate(0)">
+            <g id="orbittest-ezjsqclydxu3" transform="scale(0.704688,0.704688) translate(-85.339023,-404.13)">
+                <ellipse id="orbittest-ellipse2" rx="17.6316" ry="17.6316" transform="translate(-17.8779 242.631)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse3" rx="197.571" ry="197.571" transform="translate(85.339327 404.13)" fill="none" stroke="#d2daec" />
+                <ellipse id="orbittest-ellipse4" rx="17.6316" ry="17.6316" transform="matrix(1.78645 0 0 1.78645-44.7062 554.68)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse5" rx="17.6316" ry="17.6316" transform="matrix(.634307 0 0 0.634307-106.64 404.13)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse6" rx="17.6316" ry="17.6316" transform="matrix(.634307 0 0 0.634307 131.228 213.816)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse7" rx="17.6316" ry="17.6316" transform="matrix(.634307 0 0 0.634307 274.645 477.358)" fill="#d2dbed" stroke-width="0" />
+            </g>
+        </g>
+        <g id="orbittest-ezjsqclydxu10_tr" transform="translate(90.930985,405.513562) rotate(0)">
+            <g id="orbittest-ezjsqclydxu10" transform="translate(-101.088084,-396.697762)">
+                <ellipse id="orbittest-ellipse8" rx="17.6316" ry="17.6316" transform="translate(90.9312 199.126762)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse9" rx="197.571" ry="197.571" transform="translate(101.088085 396.697762)" fill="none" stroke="#d2daec" />
+                <ellipse id="orbittest-ellipse10" rx="17.6316" ry="17.6316" transform="matrix(1.78645 0 0 1.78645 298.659085 404.13)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse11" rx="17.6316" ry="17.6316" transform="matrix(.634307 0 0 0.634307-96.482915 404.13)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse12" rx="17.6316" ry="17.6316" transform="matrix(.634307 0 0 0.634307 233.070891 251.401922)" fill="#d2dbed" stroke-width="0" />
+                <ellipse id="orbittest-ellipse13" rx="17.6316" ry="17.6316" transform="matrix(.634307 0 0 0.634307 191.015 574.994)" fill="#d2dbed" stroke-width="0" />
+            </g>
+        </g>
+    </g>
+</svg>
